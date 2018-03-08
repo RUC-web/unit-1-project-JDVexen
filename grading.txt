@@ -1,0 +1,5 @@
+Issues found:
+Items on homepage overflow containers
+Nav isn't first child of body on index.html -1
+Background color on wrong nav element -1
+Text container element not centered
